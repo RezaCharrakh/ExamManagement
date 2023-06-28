@@ -1,0 +1,3 @@
+D:/Exam management/cmake-build-debug/CMakeFiles/___.dir
+D:/Exam management/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Exam management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
